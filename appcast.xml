@@ -3,6 +3,14 @@
     <channel>
         <title>AudioBuddy</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Sat, 09 Mar 2024 17:36:17 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/naveennaidu/audiobuddymac-release/releases/latest/download/AudioBuddy.dmg" length="1756975" type="application/octet-stream" sparkle:edSignature="gT/Scg9ayuuNBUSR5kXcqoMpDoaK33JI4k0egFU5y4qoVo+DOY1nMP9gRboPMK3NZGOFUYdl9ykfcR6RrGuJAg=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Sat, 09 Mar 2024 13:01:17 +0530</pubDate>
             <sparkle:version>2</sparkle:version>
